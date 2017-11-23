@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/ERTextlimit.svg?style=flat)](http://cocoapods.org/pods/ERTextlimit)
 [![Platform](https://img.shields.io/cocoapods/p/ERTextlimit.svg?style=flat)](http://cocoapods.org/pods/ERTextlimit)
 
+
+![alt text](screenshots/textfield.png "UITextField use")
+![alt text](screenshots/textview.png "UITextView use")
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
